@@ -4,6 +4,7 @@ const app = express();
 
 // salom
 // salom
+// yangi 
 app.get("/users", (req, res) => {
     console.log("salom");
 });
