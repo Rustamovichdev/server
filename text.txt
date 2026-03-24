@@ -6,3 +6,28 @@ github codelarni o'tirib
 github push pull marge ...
 
 github action ... 
+
+
+clent data so'rashi
+clent data yozishi 
+clent update o'zgartirishi mumkun
+clent data o'chirishishi
+
+get
+post
+put/patch
+delete
+
+routing 
+
+/products
+/users
+
+app.get("/routing",function(vazifa bajaradi))
+app.post("/routing",function())
+app.put("/routing",function())
+app.delete("/routing",function())
+
+app.get("/products",function())
+
+app.post("/products",function())
