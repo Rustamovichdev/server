@@ -3,7 +3,7 @@ const express = require("express");
 const app = express();
 
 // salom
-
+// salom
 app.get("/users", (req, res) => {
     console.log("salom");
 });
