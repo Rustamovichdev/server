@@ -1,0 +1,8 @@
+github 
+
+
+github codelarni o'tirib
+
+github push pull marge ...
+
+github action ... 
